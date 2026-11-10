@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # bank_sampah
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# bank-sampah
+Aplikasi sederhana Bank Sampah
+>>>>>>> d7fcd00900b0eda8b5dd6096d13ba6f1f97a8da3
